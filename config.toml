@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://network-digital-old-norse-studies.github.io/'
 defaultContentLanguage  = 'en'
 languageCode = "en"
-title = 'Test Site'
+title = 'Digital Old Norse Studies'
 
 enableRobotsTXT = true
 theme = 'gokarna'
@@ -29,19 +29,20 @@ theme = 'gokarna'
     weight = 10
     pre = "<span data-feather='message-square'></span>"
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 20
-    pre = "<span data-feather='hash'></span>"
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   weight = 20
+  #   pre = "<span data-feather='hash'></span>"
     
   [[menu.main]]
     identifier = "github"
-    url = "https://github.com"
+    url = "https://github.com/network-digital-old-norse-studies"
     weight = 30
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
 
 [params]
-  footer = 'Research Network. All rights reserved.'
+  footer = 'Research Network for Digital Old Norse Studies.'
+  github = 'https://github.com/network-digital-old-norse-studies'
