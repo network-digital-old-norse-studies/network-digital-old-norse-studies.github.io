@@ -1,0 +1,48 @@
+baseURL = 'https://network-digital-old-norse-studies.github.io/'
+defaultContentLanguage  = 'en'
+languageCode = "en"
+title = 'Digital Old Norse Studies'
+
+enableRobotsTXT = true
+theme = 'gokarna'
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    url = "/"
+    name = "Home"
+    weight = 3
+    pre = "<span data-feather='home'></span>"
+
+  [[menu.main]]
+    identifier = "about"
+    url = "/pages/about"
+    name = "About"
+    weight = 5
+    pre = "<span data-feather='users'></span>"
+
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    name = "Posts"
+    weight = 10
+    pre = "<span data-feather='message-square'></span>"
+
+  # [[menu.main]]
+  #   identifier = "tags"
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   weight = 20
+  #   pre = "<span data-feather='hash'></span>"
+    
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/network-digital-old-norse-studies"
+    weight = 30
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
+
+[params]
+  footer = 'Research Network for Digital Old Norse Studies.'
+  github = 'https://github.com/network-digital-old-norse-studies'
