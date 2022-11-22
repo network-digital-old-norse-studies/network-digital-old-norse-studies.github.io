@@ -14,7 +14,8 @@ more information. Or get in touch with one of the network members.
 ## How to Contribute to the Pages
 
 The pages are built with [Hugo](https://gohugo.io/) and deployed using GitHub actions. This should make usage and
-contribution quite simple. However it still requires some understanding of working with Git and how to use Hugo.
+contribution quite simple. However it still requires some understanding of working with Git and how to use Hugo; all 
+content of Hugo is written in markdown.
 The following section should provide you with all necessary information.
 
 
@@ -91,11 +92,55 @@ introduces by the PR - it will show up in the history of the main branch.
 
 #### Deployment of the Pages using GitHub Actions
 
-<!-- TODO: write short text here -->
+Deploying the repo's content to the GitHub Pages is done using GitHub Actions. The process is fully automated and does
+not require any attention from contributors (given all is set up correctly and nothing is broken). The action is
+triggered by any merge to the main branch, and should only take a couple of seconds; sometime it takes several minutes
+for the changes to be visible on the pages. If the changes still do not show up after some minutes, please check the
+"Actions" tab on github to see if something failed. As the action is triggered by merging to main, it is crucial to
+ensure that a pull request is up to standard before it gets merged - otherwise this will show up on the pages.
+
 
 ### Using Hugo
 
-<!-- TODO: write some chapters here, on how to set it up, run it, use it; and about markdown -->
+[Hugo](https://gohugo.io/) is a static site generator written in the Go programming language. It creates websites from
+markdown files by applying the provided content and metadata to templates. This makes it extremely easy to create simple
+but modern-looking sites with minimal effort and tech knowhow requirements.
+
+For regular use cases, Hugo only has a notion of two basic concepts: Single pages and list pages. A single page
+corresponds to a single markdown file. A list page gives overview over (and links to) multiple pages that are grouped.  
+All markdown files have to be placed in the `content` directory, which corresponds to the home page of the website. Any
+subdirectory therein will create a sub-route, for which a list page is automatically created; all markdown files will
+resolve in a page using the filename (without file extension) as the page route, the only exception being the filename
+`_index.md` which provides additional content to the list page of a route, if desired.  
+
+For our page, we use the Hugo theme [Gokarna](https://github.com/526avijitgupta/gokarna), which additionally
+distinguishes between "posts" and "pages". Pages can be any static page that is either included in a menu or linked to
+by another page (like a wiki), posts are blog posts and are displayed in chronological order.
+
+Our Hugo pages can be created by simply writing markdown files and letting GitHub actions take care of all the rest.
+However it is more advisable to install Hugo locally, so that hugo may help you creating new pages, to see if it can
+successfully process all the pages you have written, and to be able to check the generated website locally rather than
+having to deploy first to see how the result will look.
+
+
+#### Installing Hugo
+
+<!-- TODO -->
+
+
+#### Creating new pages with Hugo
+
+<!-- TODO -->
+
+
+#### Serving your pages locally with Hugo
+
+<!-- TODO -->
+
+
+### Markdown
+
+<!-- TODO: a section on markdown - mostly a link should do -->
 
 
 ### Any questions...?
