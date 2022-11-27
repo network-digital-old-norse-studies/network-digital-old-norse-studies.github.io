@@ -44,5 +44,6 @@ theme = 'gokarna'
     pre = "<span data-feather='github'></span>"
 
 [params]
+  description = "International Research Network"
   footer = 'Research Network for Digital Old Norse Studies.'
   github = 'https://github.com/network-digital-old-norse-studies'
