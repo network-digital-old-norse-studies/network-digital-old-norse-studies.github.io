@@ -153,10 +153,24 @@ created in the `content` folder, a slash can be used to mark sub-folders; the fi
 E.g.: `hugo new pages/about.md` would create the "about" page, `hugo new posts/website-launch.md` would create a blog
 post to accompany the launch of our website.
 
+The metadata added to the file by Hugo is delimited by three hyphens and consists of the three fields `title`, `date`
+and `type`, plus the optional field `description`. Adjust the metadata as you see fit. The field `type` should either be
+"page" or "post", depending on what kind of page you want to create.  
+If you choose create pages manually, it is best to copy the metadata from an existing file and adjust it, in order to
+ensure correct formatting.
+
 
 #### Serving your pages locally with Hugo
 
-<!-- TODO -->
+To serve your pages locally, execute `hugo server` in your terminal. Hugo will build the pages and spin up a local
+server so you can view the pages. The terminal output will tell you under which address you can view the pages: For now
+it is [http://localhost:1313/](http://localhost:1313/), though this might change in the future. Simply open this page in
+your web browser.
+
+The pages will be served as long as you don't close the terminal window and don't interrupt the process (with 
+`Ctrl/Cmd + C`). Hugo will automatically detect any changes you make to the local files, re-build the pages when you
+save and refresh your browser. You can therefor simply work on the files while having the browser window open, and all
+changes you made will show up whenever you save your progress.
 
 
 ### Markdown
