@@ -175,7 +175,24 @@ changes you made will show up whenever you save your progress.
 
 ### Markdown
 
-<!-- TODO: a section on markdown - mostly a link should do -->
+Markdown is a light-weight markup language for encoding text formatting information in an easy-to-remember and
+easy-to-read manner. It is very commonly used in the context of software development, so you will see it all over the
+place on GitHub. But it is by no means specific for tech documentations - it is very well suited for note-taking and
+formatting of non-print texts in all fields.
+
+The markdown syntax is easy to learn, and there are many cheat sheets all over the internet, e.g. 
+[here](https://www.markdownguide.org/cheat-sheet/), 
+[here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or 
+[here](https://www.freecodecamp.org/news/markdown-cheatsheet/). The most important elements are as follows:  
+Text renders as text. A single line break is not rendered at all. Double line break starts a new paragraph. A soft line
+break is created by ending a line with *two* spaces and then adding a single line break. Headers are created by starting
+the line with one or more hash (`#`) signs plus a space; the number of hashes indicates the header level. Bullet point
+lists are created by starting the line with a hyphen plus a space; numbered lists are created by starting the line with
+a digit, a stop and a space.  
+Again, check the cheat sheets linked above to see what else you can do.
+
+Text editors like Visual Studio Code offer great markdown support, like syntax highlighting and a live preview of what
+the rendered result will look like.
 
 
 ### Any questions...?
