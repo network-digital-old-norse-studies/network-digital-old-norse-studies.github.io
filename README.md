@@ -122,15 +122,36 @@ However it is more advisable to install Hugo locally, so that hugo may help you 
 successfully process all the pages you have written, and to be able to check the generated website locally rather than
 having to deploy first to see how the result will look.
 
+When you're working in a text editor like [Visual Studio Code](https://code.visualstudio.com/), this comes with a
+built-in terminal, so you have the Hugo command line tool handy while you're working on the pages.
+
 
 #### Installing Hugo
 
-<!-- TODO -->
+Hugo is available for all operating systems. An installation guide can be found [here](https://gohugo.io/installation/).
+The guide however recommends using command line package managers for installation - for Linux users this should feel
+familiar, for Mac OS the homebrew package manager is very nice; for windows you can use chocolatey, and if you don't
+like installing your applications through the command line, you can use it once to install
+[Chocolatey GUI](https://community.chocolatey.org/packages/ChocolateyGUI), and then use the graphical user interface to
+install Hugo (or any other application).
+
+**Note:** If given the choice between `hugo` and `hugo-extended`, please install the extended version. Otherwise you may
+be missing some features.
+
+To verify that the installation worked, open a new terminal *after the installation finished* and type `hugo version`.
+If you see something that resembles a version number rather than an error message, everything worked.
 
 
 #### Creating new pages with Hugo
 
-<!-- TODO -->
+As mentioned above, in Hugo, content is written in simple markdown files, which can easily be created manually. However
+you can also create new pages through Hugo, which will generate some metadata for you which you otherwise have to add to
+the file yourself.
+
+To create a new page, simply type `hugo new [PAGE-NAME]` and Hugo will create it for you. Pages are automatically
+created in the `content` folder, a slash can be used to mark sub-folders; the file-ending `.md` is required.  
+E.g.: `hugo new pages/about.md` would create the "about" page, `hugo new posts/website-launch.md` would create a blog
+post to accompany the launch of our website.
 
 
 #### Serving your pages locally with Hugo
