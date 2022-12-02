@@ -76,7 +76,12 @@ Pétur Húni Björnsson
 
 Sven Kraus
 
-University of Basel 
+University of Basel
+
+I'm a doctoral researcher working on translation and transmission in 13th c. Norway and Iceland. In my
+research, I'm exploring ways of using methods like network analysis, stylometry, and graph based embedding
+and clustering methods. This means to a large degree experimenting with those different methods and
+algorithms to establish which of these can be used meaningfully in a 13th c. context.
 
 ---
 
