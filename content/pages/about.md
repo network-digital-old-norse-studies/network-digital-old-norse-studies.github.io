@@ -34,6 +34,8 @@ University of Basel / Swiss National Data and Service Center for the Humanities 
 
 Beeke Stegmann
 
+Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+
 ---
 
 Eline Elmiger
@@ -44,17 +46,25 @@ University of Basel
 
 Emily Lethbridge
 
+Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+
 ---
 
 Ermenegilda Rachel Müller
+
+Háskóli Íslands, Reykjavík
 
 ---
 
 Guðrún Laufey Guðmundsdóttir
 
+Landsbókasafn Íslands, Reykjavík
+
 ---
 
 Juliane Thiemann
+
+University of Bergen Library
 
 ---
 
@@ -72,6 +82,8 @@ University of Basel
 
 Pétur Húni Björnsson
 
+Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+
 ---
 
 Sven Kraus
@@ -87,16 +99,25 @@ algorithms to establish which of these can be used meaningfully in a 13th c. con
 
 Svenja Walkenhorst
 
+[Handschriftencensus.de](https://handschriftencensus.de) / University of Marburg
+
 ---
 
 Tarrin Wills
+
+[Dictionary of Old Norse Prose](https://onp.ku.dk/onp/onp.php) / 
+[The Skaldic Project](https://skaldic.org/m.php?p=skaldic) / Københavns Universitet
 
 ---
 
 Tim Lüthi
 
+University of Zurich
+
 ---
 
-William Duba 
+William Duba
+
+[Fragmentarium.ms](https://fragmentarium.ms/) / Université de Fribourg
 
 ---
