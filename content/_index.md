@@ -16,3 +16,12 @@ manuscripts, medieval scandinavian literature, material philology and digital hu
 Interested?  
 We are an open research network. If you want to be part of it, please do not hesitate to get in touch with one of the
 network members.
+placeholder text
+
+## People
+
+lorem ipsum
+
+### Eline Elmiger
+Eline Elmiger is a MA student at the University of Basel and a member of the Network for Digital Old Norse Studies as well as the Arbeitsgruppe "Digitale Forschung in der Altnordistik" in Basel. She is also one of the organizers of the workshop "Digital Research in Old Norse Studies: Data Management and Infrastructure Needs".
+
