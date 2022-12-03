@@ -30,6 +30,10 @@ Balduin Landolt
 
 University of Basel / Swiss National Data and Service Center for the Humanities (DaSCH)
 
+After an MA in Scandinavian Studies, Balduin Landolt works as a backend software developer (Scala) at a digital archive
+for open research data. He is interested in everything from manuscripts and (digital) editing to software architecture 
+and design in the context of functional programming.
+
 ---
 
 Beeke Stegmann
