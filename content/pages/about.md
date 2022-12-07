@@ -11,9 +11,9 @@ The aim of the research network is to connect scholars with a shared interest fo
 Old Norse studies - mostly focusing on manuscript-based and material approaches to Old Norse literature and culture -,
 and digital humanities in a broad sense.
 
-By maintaining this network we hope to achieve the following points:
+By maintaining this network, we hope to achieve the following points:
 
-- Share knowledge, ideas, and data; connect with researchers of similar interests.
+- Share knowledge, ideas, and data; connect with researchers with similar interests.
 - Have a critical and constructive dialog on the implications and influences of digital tools and methods and data on
   our research.
 - Further the exchange between users and producers of digital research infrastructures.

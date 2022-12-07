@@ -11,7 +11,7 @@ in Old Norse Studies: Data Management and Infrastructure Needs" with the aim to 
 between scholars of Old Norse Studies working with digital tools, methods, data or infrastructure.
 
 The network consists of a number of scholars covering a wide field of research, but sharing an interest for Old Norse
-manuscripts, medieval scandinavian literature, material philology and digital humanities.
+manuscripts, medieval Scandinavian literature, material philology and digital humanities.
 
 Interested?  
 We are an open research network. If you want to be part of it, please do not hesitate to get in touch with one of the
