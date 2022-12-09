@@ -54,7 +54,7 @@ workshop "Digital Research in Old Norse Studies: Data Management and Infrastruct
 
 Emily Lethbridge
 
-Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+[Icelandic Saga Map](http://sagamap.hi.is/is/) / Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
 
 ---
 
@@ -66,7 +66,7 @@ Háskóli Íslands, Reykjavík
 
 Guðrún Laufey Guðmundsdóttir
 
-Landsbókasafn Íslands, Reykjavík
+[Handrit.is](https://handrit.is/) / Landsbókasafn Íslands, Reykjavík
 
 ---
 
@@ -80,13 +80,22 @@ Madita Knöpfle
 
 University of Basel / University of Zurich
 
-Madita Knöpfle is a PhD student working on 18th and early 19th century saga literature. Her main interest lies in the materiality, textuality and narrativity of literature. In addition, she is interested in the possibilities and limitations of digital research in Scandinavian studies.
+Madita Knöpfle is a PhD student working on 18th and early 19th century saga literature. Her main interest lies in the
+materiality, textuality and narrativity of literature. In addition, she is interested in the possibilities and
+limitations of digital research in Scandinavian studies.
 
 ---
 
 Nora Kauffeldt
 
 University of Basel
+
+Nora Kauffeldt is a doctoral researcher at the Department of Nordic Studies at the University of Basel and a founding
+member of the Basel research group for Digital Old Norse Studies. As a non-digital native, she addresses infrastructural
+needs for working with digital catalogues, mapping the saga geography and digital manuscript reconstructions. In her
+PhD, she is analyzing the narrative and material transmission of landscape knowledge in Old Icelandic manuscript
+compilations. Her research areas include spatial and landscape theory, historical geography, the materiality of 
+manuscripts and the narrativity of Icelandic sagas. 
 
 ---
 
