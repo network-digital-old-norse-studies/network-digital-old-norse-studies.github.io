@@ -80,7 +80,9 @@ Madita Knöpfle
 
 University of Basel / University of Zurich
 
-Madita Knöpfle is a PhD student working on 18th and early 19th century saga literature. Her main interest lies in the materiality, textuality and narrativity of literature. In addition, she is interested in the possibilities and limitations of digital research in Scandinavian studies.
+Madita Knöpfle is a PhD student working on 18th and early 19th century saga literature. Her main interest lies in the
+materiality, textuality and narrativity of literature. In addition, she is interested in the possibilities and
+limitations of digital research in Scandinavian studies.
 
 ---
 
