@@ -54,7 +54,7 @@ workshop "Digital Research in Old Norse Studies: Data Management and Infrastruct
 
 Emily Lethbridge
 
-Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+[Icelandic Saga Map](http://sagamap.hi.is/is/) / Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
 
 ---
 
@@ -66,7 +66,7 @@ Háskóli Íslands, Reykjavík
 
 Guðrún Laufey Guðmundsdóttir
 
-Landsbókasafn Íslands, Reykjavík
+[Handrit.is](https://handrit.is/) / Landsbókasafn Íslands, Reykjavík
 
 ---
 
