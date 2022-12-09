@@ -88,6 +88,13 @@ Nora Kauffeldt
 
 University of Basel
 
+Nora Kauffeldt is a doctoral researcher at the Department of Nordic Studies at the University of Basel and a founding
+member of the Basel research group for Digital Old Norse Studies. As a non-digital native, she addresses infrastructural
+needs for working with digital catalogues, mapping the saga geography and digital manuscript reconstructions. In her
+PhD, she is analyzing the narrative and material transmission of landscape knowledge in Old Icelandic manuscript
+compilations. Her research areas include spatial and landscape theory, historical geography, the materiality of 
+manuscripts and the narrativity of Icelandic sagas. 
+
 ---
 
 Pétur Húni Björnsson
