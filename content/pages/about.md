@@ -53,9 +53,9 @@ workshop "Digital Research in Old Norse Studies: Data Management and Infrastruct
 ---
 
 Emily Lethbridge
+[Icelandic Saga Map](http://sagamap.hi.is/is/) and [Nafnið.is](https://nafnið.is/)
 
-[Icelandic Saga Map](http://sagamap.hi.is/is/) / Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
-
+Emily works on medieval Icelandic manuscripts and literary culture, landscape and place-names. 
 ---
 
 Ermenegilda Rachel Müller

@@ -11,7 +11,33 @@ If you're interested in the research network, see our [pages](https://network-di
 more information. Or get in touch with one of the network members.
 
 
-## How to Contribute to the Pages
+## How to Contribute to the Pages (Step by Step)
+
+The basis of the pages are markdown files. If you want to understand how markdown files are rendered as a web page, see the technical explanation below.
+This section will give you brief explanation on how to edit what is visible to the public in a way that is almost as easy as writing in the text editor of your choice.
+
+### Step One
+
+The most important thing is to first create a branch in GitHub for your edit. This makes sure there is some form of editorial oversight and changes
+can be reviewed before being published. You can find out how to create a branch [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
+
+When creating a branch, give it a name like this: "wip/YOUR_BRANCH_NAME".
+
+### Step Two
+
+Edit the file in the branch you just created. You can do this locally (if you have cloned the repository to your computer) or directly in the browser. All files are found in the folder "content".
+Editing markdown is very easy: You use "#" to mark headings and just write your text underneath. If you need more formatting options, check out
+the resources listed in the section on markdown below.
+
+### Step Three
+
+Save the file and create a pull request. Write a short comment summarizing your edits. One of the admins will then read and review your PR.
+You can find more information about pull requests and how to create one [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
+That's basically it!
+
+
+## How to Contribute to the Pages (technical version)
 
 The pages are built with [Hugo](https://gohugo.io/) and deployed using GitHub actions. This should make usage and
 contribution quite simple. However it still requires some understanding of working with Git and how to use Hugo; all 
