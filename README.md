@@ -13,7 +13,7 @@ more information. Or get in touch with one of the network members.
 
 ## How to Contribute to the Pages (Step by Step)
 
-The basis of the pages are markup-files. If you want to understand how markup files are rendered as a web page, see the technical explanation below.
+The basis of the pages are markdown files. If you want to understand how markdown files are rendered as a web page, see the technical explanation below.
 This section will give you brief explanation on how to edit what is visible to the public in a way that is almost as easy as writing in the text editor of your choice.
 
 ### Step One
