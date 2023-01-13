@@ -25,8 +25,8 @@ When creating a branch, give it a name like this: "wip/YOUR_BRANCH_NAME".
 
 ### Step Two
 
-Edit the file in the branch you just created. You can do this locally or directly in the browser. All files are found in the folder "content".
-Editiing markdown is very easy: You use "#" to mark headings and just wirte your text underneath. If you need more formatting options, check out
+Edit the file in the branch you just created. You can do this locally (if you have cloned the repository to your computer) or directly in the browser. All files are found in the folder "content".
+Editing markdown is very easy: You use "#" to mark headings and just write your text underneath. If you need more formatting options, check out
 the resources listed in the section on markdown below.
 
 ### Step Three
