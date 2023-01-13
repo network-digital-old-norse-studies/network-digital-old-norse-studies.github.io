@@ -70,6 +70,14 @@ Guðrún Laufey Guðmundsdóttir
 
 [Handrit.is](https://handrit.is/) / Landsbókasafn Íslands, Reykjavík
 
+Specialist at the *Manuscript Department, National and University Library of Iceland* from 2017 ;
+Project manager at *The Sigurður Nordal Institute / The Árni Magnússon Institute for Icelandic Studies* 2004-2017 ;
+Independent scholar since 2000.  
+MA in History from the *University of Iceland*, 2002 ; Musicology and paleography at *The University of Pisa*, Italy, 2000-2001 ;
+BA in History and Linguistics from the *University of Iceland*, 2000 ; Musical studies at the *Reykjavík College of Music*, 1991-1997.  
+Research field: Icelandic manuscripts 1500-1800 ; Icelandic music history ; Preservation of musical manuscripts in Iceland ;
+Paleography ; Hymnology ; Musical paleography. 
+
 ---
 
 Juliane Thiemann
