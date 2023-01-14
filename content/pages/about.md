@@ -128,7 +128,13 @@ algorithms to establish which of these can be used meaningfully in a 13th c. con
 
 Svenja Walkenhorst
 
-[Handschriftencensus.de](https://handschriftencensus.de) / University of Marburg
+[Handschriftencensus.de](https://handschriftencensus.de) / University of Marburg 
+
+With a background in medieval German and Scandinavian Studies, I’m currently a research assistant at 
+Handschriftencensus and a PhD student in Marburg. My PhD thesis explores intersectionality in German and
+Scandinavian adaptations of _Floire et Blancheflor_. My research interests include (but are not limited to)
+gender and queer studies, Middle Low German literature, cultural transfer as well as the materiality of 
+manuscripts.
 
 ---
 
