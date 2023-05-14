@@ -62,7 +62,9 @@ Emily works on medieval Icelandic manuscripts and literary culture, landscape an
 
 Ermenegilda Rachel Müller
 
-Háskóli Íslands, Reykjavík
+Háskóli Íslands/Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+
+I am writing a PhD dissertation at the University of Iceland about the parallel diffusion of the sagas of the Icelanders in manuscripts and print in the late 18th and early 19th centuries. I am interested in the online cataloguing of manuscripts, printed books, and paper watermarks, and in the applications of data science in bibliography and codicology. During my studies, I worked for different DH projects at HÍ and the Árni Magnússon Institute.
 
 ---
 
