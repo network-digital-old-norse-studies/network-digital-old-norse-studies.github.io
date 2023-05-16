@@ -5,7 +5,7 @@ description: "Github Workshop with Balduin Landolt (University of Basel / DaSCH)
 type: "post"
 ---
 
-In this internal training session / workshop, Balduin gave us an introduction to the main features of Github. We covered : 
+In this internal training session / workshop, Balduin gave us an introduction to the main features of Git and Github. We covered : 
 * How to use GitHub Desktop along with an editor, here VSCode.
 * How to make, clone, and fork repositories.
 * How to commit to a repository and how to make useful commit descriptions.
