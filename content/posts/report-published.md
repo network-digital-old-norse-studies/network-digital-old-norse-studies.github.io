@@ -1,6 +1,6 @@
 ---
 title: "Workshop Report Published"
-date: 2023-02-24T14:00:00+01:00
+date: 2023-10-20T14:05:00+01:00
 description: "The report of the workshop on digital research infrastructure in old norse studies in Basel 2022 has been published"
 type: "post"
 ---

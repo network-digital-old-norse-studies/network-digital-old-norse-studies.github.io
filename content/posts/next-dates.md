@@ -1,6 +1,6 @@
 ---
 title: "Next meetings in 2023"
-date: 2023-02-24T14:00:00+01:00
+date: 2023-10-20T14:00:00+01:00
 description: "There will be two more meetings in 2023"
 type: "post"
 ---
