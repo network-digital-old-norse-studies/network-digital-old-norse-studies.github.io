@@ -17,10 +17,10 @@ The Zoomlink will be sent out beforehand.
 3.	Agenda and potential addenda
 4.	Year in Review: Activities 2022
 5.	Quo vadis, Network?
-a.	How open or closed do we want the network to be?
-b.	Frequency of Meetings, Possibility of Meeting in Person
-c.	What Do We Want and/or Need from this Network?
-d.	Ideas for Workshops, Events, Seminars
+    a.	How open or closed do we want the network to be?
+    b.	Frequency of Meetings, Possibility of Meeting in Person
+    c.	What Do We Want and/or Need from this Network?
+    d.	Ideas for Workshops, Events, Seminars
 6.	Tasks and Responsibilities
 7.	Misc
 
