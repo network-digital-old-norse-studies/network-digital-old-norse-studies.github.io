@@ -1,7 +1,7 @@
 ---
-title: "Anual Board Meeting 2023"
+title: "Annual Board Meeting 2023"
 date: 2023-12-11T11:15:00+01:00
-description: "We will get together to look back on 2022 and make plans for 2023."
+description: "We will get together to look back on 2023 and make plans for 2024."
 type: "post"
 ---
 
@@ -15,7 +15,7 @@ The Zoomlink will be sent out beforehand.
 1.	Welcome
 2.	Deciding on a minute taker
 3.	Agenda and potential addenda
-4.	Year in Review: Activities 2022
+4.	Year in Review: Activities 2023
 5.	Quo vadis, Network?
     1. How open or closed do we want the network to be?
     2.	Frequency of Meetings, Possibility of Meeting in Person
