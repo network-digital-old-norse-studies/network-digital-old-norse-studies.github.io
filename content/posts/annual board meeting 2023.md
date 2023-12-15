@@ -7,7 +7,7 @@ type: "post"
 
 # Date and Time
 
-The Board Meeting will be held on Zoom on December 15 at 10 am CET (10:00 GMT).
+The Board Meeting will be held on Zoom on December 15 at 10 am CET (9 am GMT).
 The Zoomlink will be sent out beforehand.
 
 # Agenda
