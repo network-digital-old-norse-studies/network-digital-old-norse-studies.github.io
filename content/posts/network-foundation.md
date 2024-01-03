@@ -10,7 +10,7 @@ During the workshop "Digital Research in Old Norse Studies: Data Management and 
 [Digitale Forschung in der Altnordistik](https://nordistik.philhist.unibas.ch/de/forschung/arbeitsgruppe-digitale-forschung-in-der-altnordistik/),
 the workshop participants unanimously agreed that this exchange and collaboration should continue and be formalized.
 
-We therefor founded an international research network **"Digital Old Norse Studies"**.
+We therefore founded an international research network **"Digital Old Norse Studies"**.
 
 The aim of the network is continue the fruitful discussions we had at the workshop, to share ideas and data, to
 collaborate on projects, to organize more events, and to apply for shared projects and funding.
