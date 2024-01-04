@@ -1,6 +1,6 @@
 ---
 title: "Github Workshop"
-date: 2023-03-31T13:22:22+02:00
+date: 2023-05-05T14:00:00+02:00
 description: "Github Workshop with Balduin Landolt (University of Basel / DaSCH)"
 type: "post"
 ---
