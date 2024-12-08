@@ -26,6 +26,12 @@ The following people (ordered alphabetically by given name) are part of the netw
 
 ---
 
+Alexandre Zeitler
+
+Université de Strasbourg
+
+---
+
 Balduin Landolt
 
 University of Basel / Swiss National Data and Service Center for the Humanities (DaSCH)
@@ -146,6 +152,12 @@ Tarrin Wills
 
 [Dictionary of Old Norse Prose](https://onp.ku.dk/onp/onp.php) / 
 [The Skaldic Project](https://skaldic.org/m.php?p=skaldic) / Københavns Universitet
+
+---
+
+Thomas Mohnike
+
+Université de Strasbourg
 
 ---
 
