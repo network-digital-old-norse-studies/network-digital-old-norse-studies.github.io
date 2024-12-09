@@ -1,5 +1,7 @@
 <footer class="footer">
-    {{ $githubUrl := printf "%s/tree/main/content/%s" $.Site.Params.Repo (replace .File.Path "\\" "/") }}
+    {{ if .IsPage }}
+        {{ $githubUrl := printf "%s/tree/main/content/%s" $.Site.Params.Repo (replace .File.Path "\\" "/") }}
+    {{ end }}
     <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
     <span>Visit us at <a target="_blank" href="{{ .Site.Params.Github }}">GitHub</a>.</span>
     <span>
