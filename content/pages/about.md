@@ -46,6 +46,8 @@ Beeke Stegmann
 
 Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
 
+Beeke Stegmann combines codicology (with a focus on Icelandic and Scandinavian manuscripts) with approaches of Digital Humanities.  
+
 ---
 
 Eline Elmiger
@@ -62,7 +64,7 @@ Emily Lethbridge
 
 [Icelandic Saga Map](http://sagamap.hi.is/is/) and [Nafnið.is](https://nafnið.is/)
 
-Emily works on medieval Icelandic manuscripts and literary culture, landscape and place-names. 
+Emily Lethbridge works on medieval Icelandic manuscripts and literary culture, landscape and place-names. 
 
 ---
 
