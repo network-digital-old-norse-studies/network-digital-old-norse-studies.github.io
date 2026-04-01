@@ -26,6 +26,12 @@ The following people (ordered alphabetically by given name) are part of the netw
 
 ---
 
+Alexandre Zeitler
+
+Université de Strasbourg
+
+---
+
 Balduin Landolt
 
 University of Basel / Swiss National Data and Service Center for the Humanities (DaSCH)
@@ -39,6 +45,8 @@ and design in the context of functional programming.
 Beeke Stegmann
 
 Stofnun Árna Magnússonar í íslenskum fræðum, Reykjavík
+
+Beeke Stegmann combines codicology (with a focus on Icelandic and Scandinavian manuscripts) with approaches of Digital Humanities.  
 
 ---
 
@@ -56,7 +64,7 @@ Emily Lethbridge
 
 [Icelandic Saga Map](http://sagamap.hi.is/is/) and [Nafnið.is](https://nafnið.is/)
 
-Emily works on medieval Icelandic manuscripts and literary culture, landscape and place-names. 
+Emily Lethbridge works on medieval Icelandic manuscripts and literary culture, landscape and place-names. 
 
 ---
 
@@ -146,6 +154,12 @@ Tarrin Wills
 
 [Dictionary of Old Norse Prose](https://onp.ku.dk/onp/onp.php) / 
 [The Skaldic Project](https://skaldic.org/m.php?p=skaldic) / Københavns Universitet
+
+---
+
+Thomas Mohnike
+
+Université de Strasbourg
 
 ---
 
