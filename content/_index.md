@@ -13,6 +13,13 @@ between scholars of Old Norse Studies working with digital tools, methods, data 
 The network consists of a number of scholars covering a wide field of research, but sharing an interest for Old Norse
 manuscripts, medieval Scandinavian literature, material philology and digital humanities.
 
-Interested?  
+Interested?
 We are an open research network. If you want to be part of it, please do not hesitate to get in touch with one of the
 network members.
+
+---
+
+## Current
+
+In 2026, we are holding a monthly informal "coffee meeting" — a short online get-together for network members to share
+updates and chat about their current projects or exciting new trends in the field. Everyone is welcome to drop in.
