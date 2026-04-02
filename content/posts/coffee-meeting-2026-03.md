@@ -5,4 +5,6 @@ description: "Informal monthly coffee meeting"
 type: "post"
 ---
 
-TODO: Add description of the coffee meeting.
+We launched our new monthly coffee meeting format: a short, informal online get-together for network members to chat about their projects, share interesting finds, and catch up.
+
+We intend to continue this on a monthly basis going forward. The next coffee meeting will be on April 2, 2026 at 1 pm CET.
