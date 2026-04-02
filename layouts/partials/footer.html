@@ -1,18 +1,36 @@
 <footer class="footer">
-    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
-    <span>Visit us at <a target="_blank" href="{{ .Site.Params.Github }}">GitHub</a>.</span>
-    <span>
-        Created with <a target="_blank" href="https://gohugo.io/">Hugo</a> using the
-        <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a> theme.
-    </span>
-    {{ if .IsPage }}
-    <p>
-        <span>
-            {{ $githubUrl := printf "%s/tree/main/content/%s" $.Site.Params.Repo (replace .File.Path "\\" "/") }}
-            <a target="_blank" href="{{ $githubUrl }}">
-                <span data-feather='edit'></span> improve this page here.
-            </a>
-        </span>
-    </p>
+    <!-- Option for user to inject custom html -->
+    {{ if .Site.Params.CustomFooterHTML }}
+    {{ .Site.Params.CustomFooterHTML | safeHTML }}
     {{ end }}
+
+    {{ .Scratch.Set "footerText" "" }}
+
+    {{ if (.Site.Params.Footer) }}
+
+        {{ if and (eq .Kind "page") (.Date) }}
+            {{ .Scratch.Add "footerText" (.Date | time.Format "2006") }}
+        {{ else }}
+            {{ .Scratch.Add "footerText" (time.Now | time.Format "2006") }}
+        {{ end }}
+
+        {{ if and (eq .Kind "page") (.Lastmod) (gt (time.Format "2006" .Lastmod) (time.Format "2006" .Date)) }}
+            {{ .Scratch.Add "footerText" "-" }}
+            {{ .Scratch.Add "footerText" (.Lastmod | time.Format "2006") }}
+        {{ end }}
+
+        {{ .Scratch.Add "footerText" " " }}
+        {{ .Scratch.Add "footerText" .Site.Params.Footer }}
+
+        {{ if and (eq .Kind "page") (.Site.Copyright) }}
+            {{ .Scratch.Add "footerText" " " }}
+            {{ .Scratch.Add "footerText" .Site.Copyright }}
+        {{ end }}
+
+    {{ end }}
+
+    {{ if (gt (.Scratch.Get "footerText" | len) 0) }}
+        <span>&copy; {{ .Scratch.Get "footerText" | markdownify }}</span>
+    {{ end }}
+
 </footer>
