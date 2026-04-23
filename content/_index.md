@@ -19,7 +19,7 @@ network members.
 
 ---
 
-## Current
+## Current Activities
 
 In 2026, we are holding a monthly informal "coffee meeting" — a short online get-together for network members to share
 updates and chat about their current projects or exciting new trends in the field. Everyone is welcome to drop in.

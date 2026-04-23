@@ -12,17 +12,17 @@ The Zoomlink will be sent out beforehand.
 
 # Agenda
 
-1.	Welcome
-2.	Deciding on a minute taker
-3.	Agenda and potential addenda
-4.	Year in Review: Activities 2023
-5.	Quo vadis, Network?
+1. Welcome
+2. Deciding on a minute taker
+3. Agenda and potential addenda
+4. Year in Review: Activities 2023
+5. Quo vadis, Network?
     1. How open or closed do we want the network to be?
-    2.	Frequency of Meetings, Possibility of Meeting in Person
-    3.	What Do We Want and/or Need from this Network?
-    4.	Ideas for Workshops, Events, Seminars
-6.	Tasks and Responsibilities
-7.	Misc
+    2. Frequency of Meetings, Possibility of Meeting in Person
+    3. What Do We Want and/or Need from this Network?
+    4. Ideas for Workshops, Events, Seminars
+6. Tasks and Responsibilities
+7. Misc
 
 # Minutes
 
