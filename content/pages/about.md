@@ -100,10 +100,9 @@ Juliane Tiemann is the academic director of digital development at the Universit
 
 Madita Knöpfle
 
-University of Basel / University of Zurich
+University of Zurich
 
-Madita Knöpfle is a PhD student working on 18th and early 19th century saga literature. Her main interest lies in the
-materiality, textuality and narrativity of literature. In addition, she is interested in the possibilities and
+Madita Knöpfle is a postdoc studying the representation of gender in medieval Scandinavian manuscripts. Her research focuses on medieval and late premodern texts. Madita's main interest lies in the materiality, textuality and narrativity of literature. In addition, she is interested in the possibilities and
 limitations of digital research in Scandinavian studies.
 
 ---
